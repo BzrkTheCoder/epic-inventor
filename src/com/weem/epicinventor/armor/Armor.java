@@ -45,7 +45,7 @@ public class Armor {
                 parts = line.split(" ");
 
                 if (parts.length != 3) {
-                    System.out.println("Error in " + fn);
+                    System.out.println("Error In " + fn);
                 }
 
                 set = parts[0];
